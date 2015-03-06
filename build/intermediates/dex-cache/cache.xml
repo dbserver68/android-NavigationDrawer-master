@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\android-NavigationDrawer-master-001_add_chinese_app_name\Application\build\intermediates\exploded-aar\com.android.support\support-v13\21.0.2\libs\internal_impl-21.0.2.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="9346da9fb778af9e451211bbc3541daced174ba7">
+        <dex dex="C:\android-NavigationDrawer-master-001_add_chinese_app_name\Application\build\intermediates\pre-dexed\debug\internal_impl-21.0.2-c3028277bbd11df5c9a9d52ef4669a07249a5c4a.jar" />
+    </item>
+    <item
+        jar="C:\android-NavigationDrawer-master-001_add_chinese_app_name\Application\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.2\libs\internal_impl-21.0.2.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="962e8b12569c56dbdcf8367eb4eac8bb129cd18f">
+        <dex dex="C:\android-NavigationDrawer-master-001_add_chinese_app_name\Application\build\intermediates\pre-dexed\debug\internal_impl-21.0.2-aa9a417c5c162a52c80dc0a865cb32b08dc529e6.jar" />
+    </item>
+    <item
+        jar="C:\android-NavigationDrawer-master-001_add_chinese_app_name\Application\build\intermediates\exploded-aar\com.android.support\support-v13\21.0.2\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="61965ae058916e6a57950dd61b0164dc866af19a">
+        <dex dex="C:\android-NavigationDrawer-master-001_add_chinese_app_name\Application\build\intermediates\pre-dexed\debug\classes-1ba2271b6848e9ea1ecab6ea8c2c76334f652301.jar" />
+    </item>
+    <item
+        jar="C:\android-NavigationDrawer-master-001_add_chinese_app_name\Application\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.2\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="d1bf02de1c56d942e7a9d093b8610ba1ef4128e3">
+        <dex dex="C:\android-NavigationDrawer-master-001_add_chinese_app_name\Application\build\intermediates\pre-dexed\debug\classes-b8d910686893690440539b9f9bfcfa3556e1fc74.jar" />
+    </item>
+    <item
+        jar="C:\android-NavigationDrawer-master-001_add_chinese_app_name\Application\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\21.0.2\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="4796f18d3750bf2bfa078407a94a7f9db35b440d">
+        <dex dex="C:\android-NavigationDrawer-master-001_add_chinese_app_name\Application\build\intermediates\pre-dexed\debug\classes-677e9a6191de7b8fb91a383a2aba024cf88688d0.jar" />
+    </item>
+    <item
+        jar="C:\android-NavigationDrawer-master-001_add_chinese_app_name\Application\build\intermediates\exploded-aar\com.android.support\cardview-v7\21.0.2\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="b017100da14f9c158c9f5f2f508333c224b24a7c">
+        <dex dex="C:\android-NavigationDrawer-master-001_add_chinese_app_name\Application\build\intermediates\pre-dexed\debug\classes-4d9670b91f3c2db9f0c9ee44e0ce43b120c878f7.jar" />
+    </item>
+    <item
+        jar="C:\android-NavigationDrawer-master-001_add_chinese_app_name\Application\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.2\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="7ae2d38807a43b2f2185ff4089a92c790b579e54">
+        <dex dex="C:\android-NavigationDrawer-master-001_add_chinese_app_name\Application\build\intermediates\pre-dexed\debug\classes-ff812e96c83bfc3c866b1399fa904b38fe0a39b5.jar" />
+    </item>
+    <item
+        jar="Y:\Android-SDK\extras\android\m2repository\com\android\support\support-annotations\21.0.2\support-annotations-21.0.2.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="99373741f99a0556ee293c41e8faa1ca3ae8a4e6">
+        <dex dex="C:\android-NavigationDrawer-master-001_add_chinese_app_name\Application\build\intermediates\pre-dexed\debug\support-annotations-21.0.2-e10a498264b53116fbda442160cc740b7337df4f.jar" />
+    </item>
+
+</items>

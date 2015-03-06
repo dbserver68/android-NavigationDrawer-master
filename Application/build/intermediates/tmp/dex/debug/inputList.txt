@@ -1,0 +1,9 @@
+C:\android-NavigationDrawer-master-001_add_chinese_app_name\Application\build\intermediates\classes\debug
+C:\android-NavigationDrawer-master-001_add_chinese_app_name\Application\build\intermediates\pre-dexed\debug\internal_impl-21.0.2-c3028277bbd11df5c9a9d52ef4669a07249a5c4a.jar
+C:\android-NavigationDrawer-master-001_add_chinese_app_name\Application\build\intermediates\pre-dexed\debug\support-annotations-21.0.2-e10a498264b53116fbda442160cc740b7337df4f.jar
+C:\android-NavigationDrawer-master-001_add_chinese_app_name\Application\build\intermediates\pre-dexed\debug\classes-1ba2271b6848e9ea1ecab6ea8c2c76334f652301.jar
+C:\android-NavigationDrawer-master-001_add_chinese_app_name\Application\build\intermediates\pre-dexed\debug\classes-4d9670b91f3c2db9f0c9ee44e0ce43b120c878f7.jar
+C:\android-NavigationDrawer-master-001_add_chinese_app_name\Application\build\intermediates\pre-dexed\debug\internal_impl-21.0.2-aa9a417c5c162a52c80dc0a865cb32b08dc529e6.jar
+C:\android-NavigationDrawer-master-001_add_chinese_app_name\Application\build\intermediates\pre-dexed\debug\classes-677e9a6191de7b8fb91a383a2aba024cf88688d0.jar
+C:\android-NavigationDrawer-master-001_add_chinese_app_name\Application\build\intermediates\pre-dexed\debug\classes-ff812e96c83bfc3c866b1399fa904b38fe0a39b5.jar
+C:\android-NavigationDrawer-master-001_add_chinese_app_name\Application\build\intermediates\pre-dexed\debug\classes-b8d910686893690440539b9f9bfcfa3556e1fc74.jar
